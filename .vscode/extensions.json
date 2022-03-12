@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "antfu.theme-vitesse",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "PKief.material-icon-theme",
+    "Gruntfuggly.todo-tree",
+    "rangav.vscode-thunder-client",
+    "cweijan.vscode-database-client2",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}

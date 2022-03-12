@@ -1,0 +1,6 @@
+{
+  "Application": {
+    "name": "phoenix-test",
+    "logLevel": "all"
+  }
+}
