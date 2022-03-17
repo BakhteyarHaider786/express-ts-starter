@@ -1,31 +1,31 @@
 {
-	"editor.fontFamily": "Fira Code",
-	"editor.fontLigatures": "'cv01', 'cv05', 'cv09', 'cv12', 'cv14', 'ss05', 'ss04', 'cv18', 'ss03'",
-	"workbench.colorTheme": "Vitesse Dark",
-	"workbench.iconTheme": "material-icon-theme",
-	"workbench.productIconTheme": "icons-carbon",
-	"terminal.integrated.defaultProfile.windows": "Command Prompt",
-	"editor.defaultFormatter": "esbenp.prettier-vscode",
-	"[typescript]": {
-		"editor.formatOnSave": true,
-		"editor.selectionHighlight": false,
-		"editor.suggestSelection": "first",
-		"editor.tabCompletion": "onlySnippets",
-		"editor.wordBasedSuggestions": false
-	},
-	"cSpell.words": [
-		"automock",
-		"Bakhteyar",
-		"codepaths",
-		"eliasgcf",
-		"Haider",
-		"lcov",
-		"Middlewares",
-		"npmvet",
-		"prettierrc",
-		"Serializers",
-		"tsbuildinfo",
-		"typedi",
-		"typeenv"
-	]
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": "'cv01', 'cv05', 'cv09', 'cv12', 'cv14', 'ss05', 'ss04', 'cv18', 'ss03'",
+  "workbench.colorTheme": "Vitesse Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "icons-carbon",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.selectionHighlight": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "cSpell.words": [
+    "automock",
+    "Bakhteyar",
+    "codepaths",
+    "eliasgcf",
+    "Haider",
+    "lcov",
+    "Middlewares",
+    "npmvet",
+    "prettierrc",
+    "Serializers",
+    "tsbuildinfo",
+    "typedi",
+    "typeenv"
+  ]
 }

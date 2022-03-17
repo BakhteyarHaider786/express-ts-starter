@@ -1,6 +1,6 @@
 {
-	"Application": {
-		"name": "phoenix",
-		"logLevel": "error"
-	}
+  "Application": {
+    "name": "phoenix",
+    "logLevel": "error"
+  }
 }

@@ -1,33 +1,33 @@
 {
-	"root": true,
-	"parser": "@typescript-eslint/parser",
-	"plugins": ["@typescript-eslint", "jest"],
-	"extends": [
-		"eslint:recommended",
-		"plugin:@typescript-eslint/recommended",
-		"eslint-config-airbnb-base",
-		"plugin:prettier/recommended",
-		"plugin:jest/recommended"
-	],
-	"rules": {
-		"import/extensions": "off",
-		"no-console": "off",
-		"no-explicit-any": "off",
-		"max-len": "off",
-		"import/no-extraneous-dependencies": [
-			"error",
-			{ "devDependencies": ["**/*.spec.ts"] }
-		]
-	},
-	"settings": {
-		"import/resolver": {
-			"typescript": {}
-		},
-		"jest": {
-			"version": 27
-		}
-	},
-	"env": {
-		"jest/globals": true
-	}
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["@typescript-eslint", "jest"],
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "eslint-config-airbnb-base",
+    "plugin:prettier/recommended",
+    "plugin:jest/recommended"
+  ],
+  "rules": {
+    "import/extensions": "off",
+    "no-console": "off",
+    "no-explicit-any": "off",
+    "max-len": "off",
+    "import/no-extraneous-dependencies": [
+      "error",
+      { "devDependencies": ["**/*.spec.ts"] }
+    ]
+  },
+  "settings": {
+    "import/resolver": {
+      "typescript": {}
+    },
+    "jest": {
+      "version": 27
+    }
+  },
+  "env": {
+    "jest/globals": true
+  }
 }
