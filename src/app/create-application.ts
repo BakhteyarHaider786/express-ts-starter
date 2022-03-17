@@ -7,9 +7,9 @@ const port = Number(process.env.PORT || 8080);
 const name: string = config.get("Application.name");
 
 async function createApplication(): Promise<IApplication> {
-  const handler = express();
+	const handler = express();
 
-  return { handler, port, name };
+	return { handler, port, name };
 }
 
 export default createApplication;

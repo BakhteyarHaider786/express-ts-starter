@@ -1,13 +1,15 @@
 {
-  "recommendations": [
-    "antfu.theme-vitesse",
-    "antfu.icons-carbon",
-    "PKief.material-icon-theme",
-    "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode",
-    "Gruntfuggly.todo-tree",
-    "rangav.vscode-thunder-client",
-    "cweijan.vscode-database-client2",
-    "streetsidesoftware.code-spell-checker"
-  ]
+	"recommendations": [
+		"antfu.theme-vitesse",
+		"antfu.icons-carbon",
+		"PKief.material-icon-theme",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"firsttris.vscode-jest-runner",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"Gruntfuggly.todo-tree",
+		"rangav.vscode-thunder-client",
+		"cweijan.vscode-database-client2",
+		"streetsidesoftware.code-spell-checker"
+	]
 }

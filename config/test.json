@@ -1,6 +1,6 @@
 {
-  "Application": {
-    "name": "phoenix-test",
-    "logLevel": "all"
-  }
+	"Application": {
+		"name": "phoenix-test",
+		"logLevel": "all"
+	}
 }
